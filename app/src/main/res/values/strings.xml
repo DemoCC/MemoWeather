@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MemoWeather</string>
+    <string name="positionName">获取位置</string>
+    <string name="temp">--°</string>
+    <string name="wind">风速</string>
+    <string name="date">日期</string>
+    <string name="weather">天气</string>
+    <string name="title">标题:</string>
+    <string name="content">内容:</string>
+    <string name="title2">标题:</string>
+    <string name="time">年/月/日 时间</string>
+    <string name="allNote">查看待办</string>
+    <string name="New">新建待办</string>
+    <string name="back">退出</string>
+    <string name="note_save">保存</string>
+    <string name="pmLevel">污染等级</string>
+    <string name="todo">提醒事项</string>
+
+</resources>
